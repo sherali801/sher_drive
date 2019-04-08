@@ -1,2 +1,2 @@
 # sher_drive
-A web application developed in ASP.NET Web API and Microsoft SQL Server which simplified version of Google Drive
+SherDrive is an Cloud Storage Web Application implemented using ASP.NET Web API and Microsoft SQL Server. User can create folders and upload and manage files.
